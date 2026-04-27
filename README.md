@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, there is YJ-305-A2 (YAJ-54S12G-1)
+Student, with fields of involvement including but not limited to computer applications/networking and VVVF traction drive systems (power electronics technology).
 <!--
 **YJ-305-A2/YJ-305-A2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
